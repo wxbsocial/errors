@@ -29,4 +29,4 @@ test_script:
 
 #artifacts:
 #  - path: '%GOPATH%\bin\*.exe'
-deploy: off
+deploy: false
